@@ -22,7 +22,3 @@ npm install
 npm start
 
 ```
-
-### Credits
-
-- Chris Blakely
